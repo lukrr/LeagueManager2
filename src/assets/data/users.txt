@@ -1,0 +1,1799 @@
+[
+  {
+    "id": 1,
+    "nick": "URU Kody#LAS",
+    "elo": 1315,
+    "ranking": 2,
+    "racha": 2,
+    "victorias": 10,
+    "derrotas": 4
+  },
+  {
+    "id": 5,
+    "nick": "ElJotita",
+    "elo": 1093,
+    "ranking": 68,
+    "racha": -5,
+    "victorias": 17,
+    "derrotas": 32
+  },
+  {
+    "id": 2,
+    "nick": "Wolfssj5",
+    "elo": 1296,
+    "ranking": 4,
+    "racha": 1,
+    "victorias": 28,
+    "derrotas": 13
+  },
+  {
+    "id": 3,
+    "nick": "Cahuaya7w7r",
+    "elo": 1285,
+    "ranking": 6,
+    "racha": 13,
+    "victorias": 98,
+    "derrotas": 90
+  },
+  {
+    "id": 4,
+    "nick": "Nitram",
+    "elo": 1253,
+    "ranking": 11,
+    "racha": -2,
+    "victorias": 13,
+    "derrotas": 12
+  },
+  {
+    "id": 6,
+    "nick": "Prueba1",
+    "elo": 1200,
+    "ranking": 31,
+    "racha": 0,
+    "victorias": 10,
+    "derrotas": 5
+  },
+  {
+    "id": 7,
+    "nick": "Prueba2",
+    "elo": 1150,
+    "ranking": 53,
+    "racha": -3,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 8,
+    "nick": "Prueba3",
+    "elo": 1300,
+    "ranking": 3,
+    "racha": -1,
+    "victorias": 25,
+    "derrotas": 20
+  },
+  {
+    "id": 9,
+    "nick": "Prueba4",
+    "elo": 1220,
+    "ranking": 24,
+    "racha": 2,
+    "victorias": 12,
+    "derrotas": 8
+  },
+  {
+    "id": 10,
+    "nick": "Prueba5",
+    "elo": 1180,
+    "ranking": 41,
+    "racha": -4,
+    "victorias": 5,
+    "derrotas": 10
+  },{
+    "id": 11,
+    "nick": "Prueba6",
+    "elo": 1160,
+    "ranking": 51,
+    "racha": 1,
+    "victorias": 18,
+    "derrotas": 15
+  },
+  {
+    "id": 12,
+    "nick": "Prueba7",
+    "elo": 1210,
+    "ranking": 27,
+    "racha": -2,
+    "victorias": 25,
+    "derrotas": 20
+  },
+  {
+    "id": 13,
+    "nick": "Prueba8",
+    "elo": 1125,
+    "ranking": 60,
+    "racha": -5,
+    "victorias": 12,
+    "derrotas": 18
+  },
+  {
+    "id": 14,
+    "nick": "Prueba9",
+    "elo": 1288,
+    "ranking": 5,
+    "racha": 3,
+    "victorias": 30,
+    "derrotas": 8
+  },
+  {
+    "id": 15,
+    "nick": "Prueba10",
+    "elo": 1199,
+    "ranking": 33,
+    "racha": 0,
+    "victorias": 15,
+    "derrotas": 15
+  },
+  {
+    "id": 16,
+    "nick": "Prueba11",
+    "elo": 1235,
+    "ranking": 16,
+    "racha": 4,
+    "victorias": 22,
+    "derrotas": 10
+  },
+  {
+    "id": 17,
+    "nick": "Prueba12",
+    "elo": 1140,
+    "ranking": 57,
+    "racha": -3,
+    "victorias": 15,
+    "derrotas": 15
+  },
+  {
+    "id": 18,
+    "nick": "Prueba13",
+    "elo": 1276,
+    "ranking": 8,
+    "racha": 6,
+    "victorias": 28,
+    "derrotas": 12
+  },
+  {
+    "id": 19,
+    "nick": "Prueba14",
+    "elo": 1322,
+    "ranking": 1,
+    "racha": 5,
+    "victorias": 33,
+    "derrotas": 10
+  },
+  {
+    "id": 20,
+    "nick": "Prueba15",
+    "elo": 1080,
+    "ranking": 70,
+    "racha": -1,
+    "victorias": 1,
+    "derrotas": 99
+  },
+  {
+    "id": 21,
+    "nick": "Prueba16",
+    "elo": 1050,
+    "ranking": 72,
+    "racha": -1,
+    "victorias": 0,
+    "derrotas": 53
+  },
+  {
+    "id": 22,
+    "nick": "Prueba17",
+    "elo": 1180,
+    "ranking": 42,
+    "racha": -1,
+    "victorias": 2,
+    "derrotas": 4
+  },
+  {
+    "id": 23,
+    "nick": "Pruebas",
+    "elo": 1047,
+    "ranking": 73,
+    "racha": 1,
+    "victorias": 1,
+    "derrotas": 1
+  },
+  {
+    "id": 24,
+    "nick": "Pruebaasd",
+    "elo": 1037,
+    "ranking": 74,
+    "racha": -1,
+    "victorias": 2,
+    "derrotas": 2
+  },
+  {
+    "id": 25,
+    "nick": "Eaeaea",
+    "elo": 1021,
+    "ranking": 75,
+    "racha": -1,
+    "victorias": 0,
+    "derrotas": 1
+  },
+  {
+    "id": 26,
+    "nick": "Sawsawsa",
+    "elo": 1015,
+    "ranking": 76,
+    "racha": 1,
+    "victorias": 1,
+    "derrotas": 3
+  },
+  {
+    "id": 27,
+    "nick": "Tersawsw",
+    "elo": 1013,
+    "ranking": 77,
+    "racha": 2,
+    "victorias": 3,
+    "derrotas": 2
+  },
+  {
+    "id": 28,
+    "nick": "NuevoUsuario1",
+    "elo": 1200,
+    "ranking": 32,
+    "racha": 0,
+    "victorias": 4,
+    "derrotas": 4
+  },
+  {
+    "id": 29,
+    "nick": "NuevoUsuario2",
+    "elo": 1225,
+    "ranking": 20,
+    "racha": 1,
+    "victorias": 4,
+    "derrotas": 2
+  },
+  {
+    "id": 30,
+    "nick": "NuevoUsuario3",
+    "elo": 1170,
+    "ranking": 47,
+    "racha": -1,
+    "victorias": 2,
+    "derrotas": 4
+  },
+  {
+    "id": 31,
+    "nick": "NuevoUsuario4",
+    "elo": 1238,
+    "ranking": 15,
+    "racha": 2,
+    "victorias": 3,
+    "derrotas": 4
+  },
+  {
+    "id": 32,
+    "nick": "NuevoUsuario5",
+    "elo": 1250,
+    "ranking": 12,
+    "racha": -2,
+    "victorias": 2,
+    "derrotas": 3
+  },
+  {
+    "id": 33,
+    "nick": "NuevoUsuario6",
+    "elo": 1185,
+    "ranking": 40,
+    "racha": 1,
+    "victorias": 4,
+    "derrotas": 2
+  },
+  {
+    "id": 34,
+    "nick": "NuevoUsuario7",
+    "elo": 1156,
+    "ranking": 52,
+    "racha": -1,
+    "victorias": 3,
+    "derrotas": 3
+  },
+  {
+    "id": 35,
+    "nick": "NuevoUsuario8",
+    "elo": 1266,
+    "ranking": 9,
+    "racha": 2,
+    "victorias": 4,
+    "derrotas": 1
+  },
+  {
+    "id": 36,
+    "nick": "NuevoUsuario9",
+    "elo": 1222,
+    "ranking": 22,
+    "racha": -2,
+    "victorias": 3,
+    "derrotas": 4
+  },
+  {
+    "id": 37,
+    "nick": "NuevoUsuario10",
+    "elo": 1100,
+    "ranking": 66,
+    "racha": 1,
+    "victorias": 2,
+    "derrotas": 4
+  },
+  {
+    "id": 38,
+    "nick": "NuevoUsuario11",
+    "elo": 1150,
+    "ranking": 54,
+    "racha": -1,
+    "victorias": 4,
+    "derrotas": 1
+  },
+  {
+    "id": 39,
+    "nick": "NuevoUsuario12",
+    "elo": 1088,
+    "ranking": 69,
+    "racha": 2,
+    "victorias": 3,
+    "derrotas": 3
+  },
+  {
+    "id": 40,
+    "nick": "NuevoUsuario13",
+    "elo": 1134,
+    "ranking": 59,
+    "racha": -2,
+    "victorias": 2,
+    "derrotas": 2
+  },
+  {
+    "id": 41,
+    "nick": "NuevoUsuario14",
+    "elo": 1067,
+    "ranking": 71,
+    "racha": 1,
+    "victorias": 2,
+    "derrotas": 1
+  },
+  {
+    "id": 42,
+    "nick": "NuevoUsuario15",
+    "elo": 1230,
+    "ranking": 19,
+    "racha": -1,
+    "victorias": 4,
+    "derrotas": 2
+  },
+  {
+    "id": 43,
+    "nick": "NuevoUsuario16",
+    "elo": 1199,
+    "ranking": 34,
+    "racha": 2,
+    "victorias": 3,
+    "derrotas": 1
+  },
+  {
+    "id": 44,
+    "nick": "NuevoUsuario17",
+    "elo": 1165,
+    "ranking": 49,
+    "racha": -2,
+    "victorias": 2,
+    "derrotas": 4
+  },
+  {
+    "id": 45,
+    "nick": "NuevoUsuario18",
+    "elo": 1212,
+    "ranking": 26,
+    "racha": 1,
+    "victorias": 3,
+    "derrotas": 2
+  },
+  {
+    "id": 46,
+    "nick": "NuevoUsuario19",
+    "elo": 1180,
+    "ranking": 43,
+    "racha": -1,
+    "victorias": 3,
+    "derrotas": 4
+  },
+  {
+    "id": 47,
+    "nick": "NuevoUsuario20",
+    "elo": 1122,
+    "ranking": 62,
+    "racha": 2,
+    "victorias": 1,
+    "derrotas": 3
+  },
+  {
+    "id": 48,
+    "nick": "NuevoUsuario21",
+    "elo": 1167,
+    "ranking": 48,
+    "racha": -2,
+    "victorias": 3,
+    "derrotas": 3
+  },
+  {
+    "id": 49,
+    "nick": "NuevoUsuario22",
+    "elo": 1245,
+    "ranking": 13,
+    "racha": 1,
+    "victorias": 4,
+    "derrotas": 2
+  },
+  {
+    "id": 50,
+    "nick": "NuevoUsuario23",
+    "elo": 1280,
+    "ranking": 7,
+    "racha": -1,
+    "victorias": 2,
+    "derrotas": 4
+  },
+  {
+    "id": 51,
+    "nick": "NuevoUsuario24",
+    "elo": 1109,
+    "ranking": 65,
+    "racha": 2,
+    "victorias": 3,
+    "derrotas": 4
+  },
+  {
+    "id": 52,
+    "nick": "NuevoUsuario25",
+    "elo": 1098,
+    "ranking": 67,
+    "racha": -2,
+    "victorias": 2,
+    "derrotas": 1
+  },
+  {
+    "id": 53,
+    "nick": "NuevoUsuario26",
+    "elo": 1201,
+    "ranking": 30,
+    "racha": 1,
+    "victorias": 3,
+    "derrotas": 3
+  },
+  {
+    "id": 54,
+    "nick": "NuevoUsuario27",
+    "elo": 1145,
+    "ranking": 56,
+    "racha": -1,
+    "victorias": 4,
+    "derrotas": 2
+  },
+  {
+    "id": 55,
+    "nick": "NuevoUsuario28",
+    "elo": 1112,
+    "ranking": 64,
+    "racha": 2,
+    "victorias": 3,
+    "derrotas": 1
+  },
+  {
+    "id": 56,
+    "nick": "NuevoUsuario29",
+    "elo": 1178,
+    "ranking": 44,
+    "racha": -2,
+    "victorias": 2,
+    "derrotas": 4
+  },
+  {
+    "id": 57,
+    "nick": "NuevoUsuario30",
+    "elo": 1223,
+    "ranking": 21,
+    "racha": 1,
+    "victorias": 3,
+    "derrotas": 2
+  },
+  {
+    "id": 58,
+    "nick": "NuevoUsuario31",
+    "elo": 1187,
+    "ranking": 39,
+    "racha": -1,
+    "victorias": 2,
+    "derrotas": 3
+  },
+  {
+    "id": 59,
+    "nick": "NuevoUsuario32",
+    "elo": 1240,
+    "ranking": 14,
+    "racha": 2,
+    "victorias": 4,
+    "derrotas": 1
+  },
+  {
+    "id": 60,
+    "nick": "NuevoUsuario33",
+    "elo": 1195,
+    "ranking": 35,
+    "racha": -2,
+    "victorias": 3,
+    "derrotas": 4
+  },
+  {
+    "id": 61,
+    "nick": "NuevoUsuario34",
+    "elo": 1138,
+    "ranking": 58,
+    "racha": 1,
+    "victorias": 4,
+    "derrotas": 2
+  },
+  {
+    "id": 62,
+    "nick": "NuevoUsuario35",
+    "elo": 1115,
+    "ranking": 63,
+    "racha": -1,
+    "victorias": 3,
+    "derrotas": 3
+  },
+  {
+    "id": 63,
+    "nick": "NuevoUsuario36",
+    "elo": 1206,
+    "ranking": 29,
+    "racha": 2,
+    "victorias": 2,
+    "derrotas": 1
+  },
+  {
+    "id": 64,
+    "nick": "NuevoUsuario37",
+    "elo": 1176,
+    "ranking": 45,
+    "racha": -2,
+    "victorias": 4,
+    "derrotas": 2
+  },
+  {
+    "id": 65,
+    "nick": "NuevoUsuario38",
+    "elo": 1232,
+    "ranking": 18,
+    "racha": 1,
+    "victorias": 3,
+    "derrotas": 4
+  },
+  {
+    "id": 66,
+    "nick": "NuevoUsuario39",
+    "elo": 1190,
+    "ranking": 36,
+    "racha": -1,
+    "victorias": 2,
+    "derrotas": 3
+  },
+  {
+    "id": 67,
+    "nick": "NuevoUsuario40",
+    "elo": 1257,
+    "ranking": 10,
+    "racha": 2,
+    "victorias": 1,
+    "derrotas": 4
+  },
+  {
+    "id": 68,
+    "nick": "NuevoUsuario41",
+    "elo": 1162,
+    "ranking": 50,
+    "racha": -2,
+    "victorias": 2,
+    "derrotas": 2
+  },
+  {
+    "id": 69,
+    "nick": "NuevoUsuario42",
+    "elo": 1188,
+    "ranking": 38,
+    "racha": 1,
+    "victorias": 1,
+    "derrotas": 3
+  },
+  {
+    "id": 70,
+    "nick": "NuevoUsuario43",
+    "elo": 1217,
+    "ranking": 25,
+    "racha": -1,
+    "victorias": 4,
+    "derrotas": 2
+  },
+  {
+    "id": 71,
+    "nick": "NuevoUsuario44",
+    "elo": 1147,
+    "ranking": 55,
+    "racha": 2,
+    "victorias": 3,
+    "derrotas": 1
+  },
+  {
+    "id": 72,
+    "nick": "NuevoUsuario45",
+    "elo": 1125,
+    "ranking": 61,
+    "racha": -2,
+    "victorias": 2,
+    "derrotas": 4
+  },
+  {
+    "id": 73,
+    "nick": "NuevoUsuario46",
+    "elo": 1208,
+    "ranking": 28,
+    "racha": 1,
+    "victorias": 3,
+    "derrotas": 2
+  },
+  {
+    "id": 74,
+    "nick": "NuevoUsuario47",
+    "elo": 1173,
+    "ranking": 46,
+    "racha": -1,
+    "victorias": 3,
+    "derrotas": 3
+  },
+  {
+    "id": 75,
+    "nick": "NuevoUsuario48",
+    "elo": 1235,
+    "ranking": 17,
+    "racha": 2,
+    "victorias": 4,
+    "derrotas": 1
+  },
+  {
+    "id": 76,
+    "nick": "NuevoUsuario49",
+    "elo": 1189,
+    "ranking": 37,
+    "racha": -2,
+    "victorias": 3,
+    "derrotas": 4
+  },
+  {
+    "id": 77,
+    "nick": "NuevoUsuario50",
+    "elo": 1221,
+    "ranking": 23,
+    "racha": 1,
+    "victorias": 2,
+    "derrotas": 3
+  },{
+    "id": 78,
+    "nick": "NuevoUsuario78",
+    "elo": 1012,
+    "ranking": 78,
+    "racha": 6,
+    "victorias": 18,
+    "derrotas": 10
+  },
+  {
+    "id": 79,
+    "nick": "NuevoUsuario79",
+    "elo": 1006,
+    "ranking": 79,
+    "racha": 2,
+    "victorias": 15,
+    "derrotas": 8
+  },
+  {
+    "id": 80,
+    "nick": "NuevoUsuario80",
+    "elo": 1000,
+    "ranking": 80,
+    "racha": -3,
+    "victorias": 12,
+    "derrotas": 18
+  },
+  {
+    "id": 81,
+    "nick": "NuevoUsuario81",
+    "elo": 994,
+    "ranking": 81,
+    "racha": 1,
+    "victorias": 10,
+    "derrotas": 10
+  },
+  {
+    "id": 82,
+    "nick": "NuevoUsuario82",
+    "elo": 988,
+    "ranking": 82,
+    "racha": -2,
+    "victorias": 5,
+    "derrotas": 15
+  },
+  {
+    "id": 83,
+    "nick": "NuevoUsuario83",
+    "elo": 982,
+    "ranking": 83,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 84,
+    "nick": "NuevoUsuario84",
+    "elo": 976,
+    "ranking": 84,
+    "racha": 3,
+    "victorias": 13,
+    "derrotas": 6
+  },
+  {
+    "id": 85,
+    "nick": "NuevoUsuario85",
+    "elo": 970,
+    "ranking": 85,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 86,
+    "nick": "NuevoUsuario86",
+    "elo": 964,
+    "ranking": 86,
+    "racha": 2,
+    "victorias": 11,
+    "derrotas": 7
+  },
+  {
+    "id": 87,
+    "nick": "NuevoUsuario87",
+    "elo": 958,
+    "ranking": 87,
+    "racha": -2,
+    "victorias": 7,
+    "derrotas": 13
+  },
+  {
+    "id": 88,
+    "nick": "NuevoUsuario88",
+    "elo": 952,
+    "ranking": 88,
+    "racha": 1,
+    "victorias": 12,
+    "derrotas": 8
+  },
+  {
+    "id": 89,
+    "nick": "NuevoUsuario89",
+    "elo": 946,
+    "ranking": 89,
+    "racha": -3,
+    "victorias": 6,
+    "derrotas": 16
+  },
+  {
+    "id": 90,
+    "nick": "NuevoUsuario90",
+    "elo": 940,
+    "ranking": 90,
+    "racha": 0,
+    "victorias": 10,
+    "derrotas": 10
+  },
+  {
+    "id": 91,
+    "nick": "NuevoUsuario91",
+    "elo": 934,
+    "ranking": 91,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 92,
+    "nick": "NuevoUsuario92",
+    "elo": 928,
+    "ranking": 92,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 93,
+    "nick": "NuevoUsuario93",
+    "elo": 922,
+    "ranking": 93,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 94,
+    "nick": "NuevoUsuario94",
+    "elo": 916,
+    "ranking": 94,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 95,
+    "nick": "NuevoUsuario95",
+    "elo": 910,
+    "ranking": 95,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 96,
+    "nick": "NuevoUsuario96",
+    "elo": 904,
+    "ranking": 96,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 97,
+    "nick": "NuevoUsuario97",
+    "elo": 898,
+    "ranking": 97,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 98,
+    "nick": "NuevoUsuario98",
+    "elo": 892,
+    "ranking": 98,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 99,
+    "nick": "NuevoUsuario99",
+    "elo": 886,
+    "ranking": 99,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 100,
+    "nick": "NuevoUsuario100",
+    "elo": 880,
+    "ranking": 100,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },  {
+    "id": 101,
+    "nick": "NuevoUsuario101",
+    "elo": 874,
+    "ranking": 101,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 102,
+    "nick": "NuevoUsuario102",
+    "elo": 868,
+    "ranking": 102,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 103,
+    "nick": "NuevoUsuario103",
+    "elo": 862,
+    "ranking": 103,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 104,
+    "nick": "NuevoUsuario104",
+    "elo": 856,
+    "ranking": 104,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 105,
+    "nick": "NuevoUsuario105",
+    "elo": 850,
+    "ranking": 105,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 106,
+    "nick": "NuevoUsuario106",
+    "elo": 844,
+    "ranking": 106,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 107,
+    "nick": "NuevoUsuario107",
+    "elo": 838,
+    "ranking": 107,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 108,
+    "nick": "NuevoUsuario108",
+    "elo": 832,
+    "ranking": 108,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 109,
+    "nick": "NuevoUsuario109",
+    "elo": 826,
+    "ranking": 109,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 110,
+    "nick": "NuevoUsuario110",
+    "elo": 820,
+    "ranking": 110,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 111,
+    "nick": "NuevoUsuario111",
+    "elo": 814,
+    "ranking": 111,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 112,
+    "nick": "NuevoUsuario112",
+    "elo": 808,
+    "ranking": 112,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 113,
+    "nick": "NuevoUsuario113",
+    "elo": 802,
+    "ranking": 113,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 114,
+    "nick": "NuevoUsuario114",
+    "elo": 796,
+    "ranking": 114,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 115,
+    "nick": "NuevoUsuario115",
+    "elo": 790,
+    "ranking": 115,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 116,
+    "nick": "NuevoUsuario116",
+    "elo": 784,
+    "ranking": 116,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 117,
+    "nick": "NuevoUsuario117",
+    "elo": 778,
+    "ranking": 117,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 118,
+    "nick": "NuevoUsuario118",
+    "elo": 772,
+    "ranking": 118,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 119,
+    "nick": "NuevoUsuario119",
+    "elo": 766,
+    "ranking": 119,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 120,
+    "nick": "NuevoUsuario120",
+    "elo": 760,
+    "ranking": 120,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 121,
+    "nick": "NuevoUsuario121",
+    "elo": 754,
+    "ranking": 121,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 122,
+    "nick": "NuevoUsuario122",
+    "elo": 748,
+    "ranking": 122,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 123,
+    "nick": "NuevoUsuario123",
+    "elo": 742,
+    "ranking": 123,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 124,
+    "nick": "NuevoUsuario124",
+    "elo": 736,
+    "ranking": 124,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 125,
+    "nick": "NuevoUsuario125",
+    "elo": 730,
+    "ranking": 125,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 126,
+    "nick": "NuevoUsuario126",
+    "elo": 724,
+    "ranking": 126,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 127,
+    "nick": "NuevoUsuario127",
+    "elo": 718,
+    "ranking": 127,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 128,
+    "nick": "NuevoUsuario128",
+    "elo": 712,
+    "ranking": 128,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 129,
+    "nick": "NuevoUsuario129",
+    "elo": 706,
+    "ranking": 129,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 130,
+    "nick": "NuevoUsuario130",
+    "elo": 700,
+    "ranking": 130,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 131,
+    "nick": "NuevoUsuario131",
+    "elo": 694,
+    "ranking": 131,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 132,
+    "nick": "NuevoUsuario132",
+    "elo": 688,
+    "ranking": 132,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 133,
+    "nick": "NuevoUsuario133",
+    "elo": 682,
+    "ranking": 133,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 134,
+    "nick": "NuevoUsuario134",
+    "elo": 676,
+    "ranking": 134,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 135,
+    "nick": "NuevoUsuario135",
+    "elo": 670,
+    "ranking": 135,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 136,
+    "nick": "NuevoUsuario136",
+    "elo": 664,
+    "ranking": 136,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 137,
+    "nick": "NuevoUsuario137",
+    "elo": 658,
+    "ranking": 137,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 138,
+    "nick": "NuevoUsuario138",
+    "elo": 652,
+    "ranking": 138,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 139,
+    "nick": "NuevoUsuario139",
+    "elo": 646,
+    "ranking": 139,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 140,
+    "nick": "NuevoUsuario140",
+    "elo": 640,
+    "ranking": 140,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 141,
+    "nick": "NuevoUsuario141",
+    "elo": 634,
+    "ranking": 141,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 142,
+    "nick": "NuevoUsuario142",
+    "elo": 628,
+    "ranking": 142,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 143,
+    "nick": "NuevoUsuario143",
+    "elo": 622,
+    "ranking": 143,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 144,
+    "nick": "NuevoUsuario144",
+    "elo": 616,
+    "ranking": 144,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 145,
+    "nick": "NuevoUsuario145",
+    "elo": 610,
+    "ranking": 145,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 146,
+    "nick": "NuevoUsuario146",
+    "elo": 604,
+    "ranking": 146,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 147,
+    "nick": "NuevoUsuario147",
+    "elo": 598,
+    "ranking": 147,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 148,
+    "nick": "NuevoUsuario148",
+    "elo": 592,
+    "ranking": 148,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 149,
+    "nick": "NuevoUsuario149",
+    "elo": 586,
+    "ranking": 149,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 150,
+    "nick": "NuevoUsuario150",
+    "elo": 580,
+    "ranking": 150,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 151,
+    "nick": "NuevoUsuario151",
+    "elo": 574,
+    "ranking": 151,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 152,
+    "nick": "NuevoUsuario152",
+    "elo": 568,
+    "ranking": 152,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 153,
+    "nick": "NuevoUsuario153",
+    "elo": 562,
+    "ranking": 153,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 154,
+    "nick": "NuevoUsuario154",
+    "elo": 556,
+    "ranking": 154,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 155,
+    "nick": "NuevoUsuario155",
+    "elo": 550,
+    "ranking": 155,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 156,
+    "nick": "NuevoUsuario156",
+    "elo": 544,
+    "ranking": 156,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 157,
+    "nick": "NuevoUsuario157",
+    "elo": 538,
+    "ranking": 157,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 158,
+    "nick": "NuevoUsuario158",
+    "elo": 532,
+    "ranking": 158,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 159,
+    "nick": "NuevoUsuario159",
+    "elo": 526,
+    "ranking": 159,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 160,
+    "nick": "NuevoUsuario160",
+    "elo": 520,
+    "ranking": 160,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 161,
+    "nick": "NuevoUsuario161",
+    "elo": 514,
+    "ranking": 161,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 162,
+    "nick": "NuevoUsuario162",
+    "elo": 508,
+    "ranking": 162,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 163,
+    "nick": "NuevoUsuario163",
+    "elo": 502,
+    "ranking": 163,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 164,
+    "nick": "NuevoUsuario164",
+    "elo": 496,
+    "ranking": 164,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 165,
+    "nick": "NuevoUsuario165",
+    "elo": 490,
+    "ranking": 165,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 166,
+    "nick": "NuevoUsuario166",
+    "elo": 484,
+    "ranking": 166,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 167,
+    "nick": "NuevoUsuario167",
+    "elo": 478,
+    "ranking": 167,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 168,
+    "nick": "NuevoUsuario168",
+    "elo": 472,
+    "ranking": 168,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 169,
+    "nick": "NuevoUsuario169",
+    "elo": 466,
+    "ranking": 169,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 170,
+    "nick": "NuevoUsuario170",
+    "elo": 460,
+    "ranking": 170,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 171,
+    "nick": "NuevoUsuario171",
+    "elo": 454,
+    "ranking": 171,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 172,
+    "nick": "NuevoUsuario172",
+    "elo": 448,
+    "ranking": 172,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 173,
+    "nick": "NuevoUsuario173",
+    "elo": 442,
+    "ranking": 173,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 174,
+    "nick": "NuevoUsuario174",
+    "elo": 436,
+    "ranking": 174,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 175,
+    "nick": "NuevoUsuario175",
+    "elo": 430,
+    "ranking": 175,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 176,
+    "nick": "NuevoUsuario176",
+    "elo": 424,
+    "ranking": 176,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 177,
+    "nick": "NuevoUsuario177",
+    "elo": 418,
+    "ranking": 177,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 178,
+    "nick": "NuevoUsuario178",
+    "elo": 412,
+    "ranking": 178,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 179,
+    "nick": "NuevoUsuario179",
+    "elo": 406,
+    "ranking": 179,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 180,
+    "nick": "NuevoUsuario180",
+    "elo": 400,
+    "ranking": 180,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 181,
+    "nick": "NuevoUsuario181",
+    "elo": 394,
+    "ranking": 181,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 182,
+    "nick": "NuevoUsuario182",
+    "elo": 388,
+    "ranking": 182,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 183,
+    "nick": "NuevoUsuario183",
+    "elo": 382,
+    "ranking": 183,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 184,
+    "nick": "NuevoUsuario184",
+    "elo": 376,
+    "ranking": 184,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 185,
+    "nick": "NuevoUsuario185",
+    "elo": 370,
+    "ranking": 185,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 186,
+    "nick": "NuevoUsuario186",
+    "elo": 364,
+    "ranking": 186,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 187,
+    "nick": "NuevoUsuario187",
+    "elo": 358,
+    "ranking": 187,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 188,
+    "nick": "NuevoUsuario188",
+    "elo": 352,
+    "ranking": 188,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 189,
+    "nick": "NuevoUsuario189",
+    "elo": 346,
+    "ranking": 189,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 190,
+    "nick": "NuevoUsuario190",
+    "elo": 340,
+    "ranking": 190,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 191,
+    "nick": "NuevoUsuario191",
+    "elo": 334,
+    "ranking": 191,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 192,
+    "nick": "NuevoUsuario192",
+    "elo": 328,
+    "ranking": 192,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 193,
+    "nick": "NuevoUsuario193",
+    "elo": 322,
+    "ranking": 193,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 194,
+    "nick": "NuevoUsuario194",
+    "elo": 316,
+    "ranking": 194,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 195,
+    "nick": "NuevoUsuario195",
+    "elo": 310,
+    "ranking": 195,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 196,
+    "nick": "NuevoUsuario196",
+    "elo": 304,
+    "ranking": 196,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 197,
+    "nick": "NuevoUsuario197",
+    "elo": 298,
+    "ranking": 197,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 198,
+    "nick": "NuevoUsuario198",
+    "elo": 292,
+    "ranking": 198,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 199,
+    "nick": "NuevoUsuario199",
+    "elo": 286,
+    "ranking": 199,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 200,
+    "nick": "NuevoUsuario200",
+    "elo": 280,
+    "ranking": 200,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  }
+]
